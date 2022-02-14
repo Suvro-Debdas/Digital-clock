@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Digital-clock"]
+	url = https://github.com/Suvro-Debdas/Digital-clock
+	fetch = +refs/heads/*:refs/remotes/Digital-clock/*
